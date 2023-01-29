@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+{% block title %}Dashboard page{% endblock title %}
+
+{% block body %}
+<div class="text-center">
+<h1 >Dashboard</h1>
+<h4>Hi, {{name}}</h4>
+</div>
+
+
+
+<div class="row g-4 py-5 row-cols-1 row-cols-lg-3 text-center">
+      <div class="feature col">
+        <div class="feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2 mb-3">
+          <i class="bi bi-box-arrow-right" style="padding: 0.5em"></i>
+        </div>
+        <h3 class="fs-2">Exit</h3>
+          <p>Sing out if your account</p>
+          <a href="/logout" class="icon-link d-inline-flex align-items-center">
+          Exit
+          <svg class="bi" width="1em" height="1em"><use xlink:href="#chevron-right"></use></svg>
+        </a>
+      </div>
+      <div class="feature col">
+        <div class="feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2 mb-3">
+          <i class="bi bi-plus-square-fill" style="padding: 0.5em"></i>
+        </div>
+        <h3 class="fs-2">Add</h3>
+        <p>Add new album</p>
+        <a href="/add" class="icon-link d-inline-flex align-items-center">
+          Add
+          <svg class="bi" width="1em" height="1em"><use xlink:href="#chevron-right"></use></svg>
+        </a>
+      </div>
+      <div class="feature col">
+        <div class="feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2 mb-3">
+            <i class="bi bi-pencil-fill" style="padding: 0.5em"></i>
+        </div>
+        <h3 class="fs-2">Edit</h3>
+          <p>Edit your albums</p>
+          <a href="/dashboard/edit" class="icon-link d-inline-flex align-items-center">
+          Edit
+          <svg class="bi" width="1em" height="1em"><use xlink:href="#chevron-right"></use></svg>
+        </a>
+      </div>
+    </div>
+{% endblock body %}

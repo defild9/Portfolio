@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block title %}Albums page{% endblock title %}
+
+{% block body %}
+<h1>Albums</h1>
+<!--output all albums-->
+<div class="d-flex justify-content-center">
+{% for alb in albums %}
+
+    <div class="card" style="margin: 5px">
+        <div class="card-body" >
+            <h5 class="card-title">{{ alb.name }}</h5>
+            <p class="card-text ">{{ alb.year }}</p>
+            <a href="/albums/{{ alb.id }}" class="btn btn-primary">More</a>
+        </div>
+    </div>
+{% endfor %}
+</div>
+{% endblock body %}

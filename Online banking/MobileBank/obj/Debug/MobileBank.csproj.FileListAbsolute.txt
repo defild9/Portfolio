@@ -1,0 +1,215 @@
+E:\Work\Mobile Bank\MobileBank\MobileBank\bin\Debug\MobileBank.exe.config
+E:\Work\Mobile Bank\MobileBank\MobileBank\bin\Debug\MobileBank.exe
+E:\Work\Mobile Bank\MobileBank\MobileBank\bin\Debug\MobileBank.pdb
+E:\Work\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.csproj.AssemblyReference.cache
+E:\Work\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Properties.Resources.resources
+E:\Work\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.csproj.GenerateResource.cache
+E:\Work\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.csproj.CoreCompileInputs.cache
+E:\Work\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.exe
+E:\Work\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.pdb
+E:\Work\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.RegistrationForm.resources
+E:\Work\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.LoginForm.resources
+E:\Work\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.MainForm.resources
+C:\Users\artem\Desktop\Mobile Bank\Mobile Bank\MobileBank\MobileBank\bin\Debug\MobileBank.exe.config
+C:\Users\artem\Desktop\Mobile Bank\Mobile Bank\MobileBank\MobileBank\bin\Debug\MobileBank.exe
+C:\Users\artem\Desktop\Mobile Bank\Mobile Bank\MobileBank\MobileBank\bin\Debug\MobileBank.pdb
+C:\Users\artem\Desktop\Mobile Bank\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.csproj.AssemblyReference.cache
+C:\Users\artem\Desktop\Mobile Bank\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.LoginForm.resources
+C:\Users\artem\Desktop\Mobile Bank\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.MainForm.resources
+C:\Users\artem\Desktop\Mobile Bank\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.RegistrationForm.resources
+C:\Users\artem\Desktop\Mobile Bank\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Properties.Resources.resources
+C:\Users\artem\Desktop\Mobile Bank\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.csproj.GenerateResource.cache
+C:\Users\artem\Desktop\Mobile Bank\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.csproj.CoreCompileInputs.cache
+C:\Users\artem\Desktop\Mobile Bank\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.exe
+C:\Users\artem\Desktop\Mobile Bank\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.pdb
+C:\Users\artem\Desktop\Mobile Bank\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.SendToForm.resources
+C:\Users\Dima_\Desktop\Mobile Bank\Mobile Bank\MobileBank\MobileBank\bin\Debug\MobileBank.exe.config
+C:\Users\Dima_\Desktop\Mobile Bank\Mobile Bank\MobileBank\MobileBank\bin\Debug\MobileBank.exe
+C:\Users\Dima_\Desktop\Mobile Bank\Mobile Bank\MobileBank\MobileBank\bin\Debug\MobileBank.pdb
+C:\Users\Dima_\Desktop\Mobile Bank\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.csproj.AssemblyReference.cache
+C:\Users\Dima_\Desktop\Mobile Bank\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.LoginForm.resources
+C:\Users\Dima_\Desktop\Mobile Bank\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.MainForm.resources
+C:\Users\Dima_\Desktop\Mobile Bank\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.RegistrationForm.resources
+C:\Users\Dima_\Desktop\Mobile Bank\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.SendToForm.resources
+C:\Users\Dima_\Desktop\Mobile Bank\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Properties.Resources.resources
+C:\Users\Dima_\Desktop\Mobile Bank\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.csproj.GenerateResource.cache
+C:\Users\Dima_\Desktop\Mobile Bank\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.csproj.CoreCompileInputs.cache
+C:\Users\Dima_\Desktop\Mobile Bank\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.exe
+C:\Users\Dima_\Desktop\Mobile Bank\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.pdb
+C:\Users\Dima_\Desktop\Mobile Bank\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.AddBankCard.resources
+C:\Users\Dima_\Desktop\Mobile Bank\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.Validation.resources
+C:\Users\artem\Desktop\dimon\Mobile Bank\Mobile Bank\Mobile Bank\MobileBank\MobileBank\bin\Debug\MobileBank.exe.config
+C:\Users\artem\Desktop\dimon\Mobile Bank\Mobile Bank\Mobile Bank\MobileBank\MobileBank\bin\Debug\MobileBank.exe
+C:\Users\artem\Desktop\dimon\Mobile Bank\Mobile Bank\Mobile Bank\MobileBank\MobileBank\bin\Debug\MobileBank.pdb
+C:\Users\artem\Desktop\dimon\Mobile Bank\Mobile Bank\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.csproj.AssemblyReference.cache
+C:\Users\artem\Desktop\dimon\Mobile Bank\Mobile Bank\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.AddBankCard.resources
+C:\Users\artem\Desktop\dimon\Mobile Bank\Mobile Bank\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.LoginForm.resources
+C:\Users\artem\Desktop\dimon\Mobile Bank\Mobile Bank\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.MainForm.resources
+C:\Users\artem\Desktop\dimon\Mobile Bank\Mobile Bank\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.RegistrationForm.resources
+C:\Users\artem\Desktop\dimon\Mobile Bank\Mobile Bank\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.SendToForm.resources
+C:\Users\artem\Desktop\dimon\Mobile Bank\Mobile Bank\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.Validation.resources
+C:\Users\artem\Desktop\dimon\Mobile Bank\Mobile Bank\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Properties.Resources.resources
+C:\Users\artem\Desktop\dimon\Mobile Bank\Mobile Bank\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.csproj.GenerateResource.cache
+C:\Users\artem\Desktop\dimon\Mobile Bank\Mobile Bank\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.csproj.CoreCompileInputs.cache
+C:\Users\artem\Desktop\dimon\Mobile Bank\Mobile Bank\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.exe
+C:\Users\artem\Desktop\dimon\Mobile Bank\Mobile Bank\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.pdb
+C:\Users\artem\Desktop\dimon\Mobile Bank\Mobile Bank\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.UserForm.resources
+E:\Work\NEW Version\MobileBank\MobileBank\bin\Debug\MobileBank.exe.config
+E:\Work\NEW Version\MobileBank\MobileBank\bin\Debug\MobileBank.exe
+E:\Work\NEW Version\MobileBank\MobileBank\bin\Debug\MobileBank.pdb
+E:\Work\NEW Version\MobileBank\MobileBank\obj\Debug\MobileBank.csproj.AssemblyReference.cache
+E:\Work\NEW Version\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.AddBankCard.resources
+E:\Work\NEW Version\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.LoginForm.resources
+E:\Work\NEW Version\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.MainForm.resources
+E:\Work\NEW Version\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.RegistrationForm.resources
+E:\Work\NEW Version\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.SendToForm.resources
+E:\Work\NEW Version\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.UserForm.resources
+E:\Work\NEW Version\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.Validation.resources
+E:\Work\NEW Version\MobileBank\MobileBank\obj\Debug\MobileBank.Properties.Resources.resources
+E:\Work\NEW Version\MobileBank\MobileBank\obj\Debug\MobileBank.csproj.GenerateResource.cache
+E:\Work\NEW Version\MobileBank\MobileBank\obj\Debug\MobileBank.csproj.CoreCompileInputs.cache
+E:\Work\NEW Version\MobileBank\MobileBank\obj\Debug\MobileBank.exe
+E:\Work\NEW Version\MobileBank\MobileBank\obj\Debug\MobileBank.pdb
+E:\Work\NEW Version\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.PhoneForm.resources
+C:\Users\artem\Desktop\Vadym Version\Vadym Version\MobileBank\MobileBank\bin\Debug\MobileBank.exe.config
+C:\Users\artem\Desktop\Vadym Version\Vadym Version\MobileBank\MobileBank\bin\Debug\MobileBank.exe
+C:\Users\artem\Desktop\Vadym Version\Vadym Version\MobileBank\MobileBank\bin\Debug\MobileBank.pdb
+C:\Users\artem\Desktop\Vadym Version\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.csproj.AssemblyReference.cache
+C:\Users\artem\Desktop\Vadym Version\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.AddBankCard.resources
+C:\Users\artem\Desktop\Vadym Version\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.LoginForm.resources
+C:\Users\artem\Desktop\Vadym Version\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.MainForm.resources
+C:\Users\artem\Desktop\Vadym Version\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.PhoneForm.resources
+C:\Users\artem\Desktop\Vadym Version\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.RegistrationForm.resources
+C:\Users\artem\Desktop\Vadym Version\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.SendToForm.resources
+C:\Users\artem\Desktop\Vadym Version\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.UserForm.resources
+C:\Users\artem\Desktop\Vadym Version\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.Validation.resources
+C:\Users\artem\Desktop\Vadym Version\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.Properties.Resources.resources
+C:\Users\artem\Desktop\Vadym Version\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.csproj.GenerateResource.cache
+C:\Users\artem\Desktop\Vadym Version\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.csproj.CoreCompileInputs.cache
+C:\Users\artem\Desktop\Vadym Version\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.exe
+C:\Users\artem\Desktop\Vadym Version\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.pdb
+C:\Users\artem\Desktop\Vadym Version\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.changeEmail.resources
+C:\Users\artem\Desktop\Vadym Version\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.changePassword.resources
+C:\Users\artem\Desktop\Vadym Version\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.changePhoneNumber.resources
+C:\Users\Dima_\Desktop\Vadym Version\Vadym Version\MobileBank\MobileBank\bin\Debug\MobileBank.exe.config
+C:\Users\Dima_\Desktop\Vadym Version\Vadym Version\MobileBank\MobileBank\bin\Debug\MobileBank.exe
+C:\Users\Dima_\Desktop\Vadym Version\Vadym Version\MobileBank\MobileBank\bin\Debug\MobileBank.pdb
+C:\Users\Dima_\Desktop\Vadym Version\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.csproj.AssemblyReference.cache
+C:\Users\Dima_\Desktop\Vadym Version\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.AddBankCard.resources
+C:\Users\Dima_\Desktop\Vadym Version\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.changeEmail.resources
+C:\Users\Dima_\Desktop\Vadym Version\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.changePassword.resources
+C:\Users\Dima_\Desktop\Vadym Version\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.changePhoneNumber.resources
+C:\Users\Dima_\Desktop\Vadym Version\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.History.resources
+C:\Users\Dima_\Desktop\Vadym Version\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.LoginForm.resources
+C:\Users\Dima_\Desktop\Vadym Version\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.MainForm.resources
+C:\Users\Dima_\Desktop\Vadym Version\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.PhoneForm.resources
+C:\Users\Dima_\Desktop\Vadym Version\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.RegistrationForm.resources
+C:\Users\Dima_\Desktop\Vadym Version\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.SendToForm.resources
+C:\Users\Dima_\Desktop\Vadym Version\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.UserForm.resources
+C:\Users\Dima_\Desktop\Vadym Version\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.Validation.resources
+C:\Users\Dima_\Desktop\Vadym Version\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.Properties.Resources.resources
+C:\Users\Dima_\Desktop\Vadym Version\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.csproj.GenerateResource.cache
+C:\Users\Dima_\Desktop\Vadym Version\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.csproj.CoreCompileInputs.cache
+C:\Users\Dima_\Desktop\Vadym Version\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.exe
+C:\Users\Dima_\Desktop\Vadym Version\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.pdb
+E:\Work\Release v.1\Vadym Version\MobileBank\MobileBank\bin\Debug\MobileBank.exe.config
+E:\Work\Release v.1\Vadym Version\MobileBank\MobileBank\bin\Debug\MobileBank.exe
+E:\Work\Release v.1\Vadym Version\MobileBank\MobileBank\bin\Debug\MobileBank.pdb
+E:\Work\Release v.1\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.csproj.AssemblyReference.cache
+E:\Work\Release v.1\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.AddBankCard.resources
+E:\Work\Release v.1\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.СhangeEmail.resources
+E:\Work\Release v.1\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.СhangePassword.resources
+E:\Work\Release v.1\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.СhangePhoneNumber.resources
+E:\Work\Release v.1\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.History.resources
+E:\Work\Release v.1\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.LoginForm.resources
+E:\Work\Release v.1\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.MainForm.resources
+E:\Work\Release v.1\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.PhoneForm.resources
+E:\Work\Release v.1\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.RegistrationForm.resources
+E:\Work\Release v.1\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.SendToForm.resources
+E:\Work\Release v.1\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.UserForm.resources
+E:\Work\Release v.1\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.Validation.resources
+E:\Work\Release v.1\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.Properties.Resources.resources
+E:\Work\Release v.1\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.csproj.GenerateResource.cache
+E:\Work\Release v.1\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.csproj.CoreCompileInputs.cache
+E:\Work\Release v.1\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.exe
+E:\Work\Release v.1\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.pdb
+E:\Work\Release v.1\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.CommunalPayments.resources
+E:\Work\Release v.1\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.InternetAndTvPayments.resources
+E:\Work\Release v.1\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.ArmyHelp.resources
+E:\Work\Release v.1\Vadym Version\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.Credit.resources
+C:\Users\Dima_\Desktop\Release v.1\MobileBank\MobileBank\bin\Debug\MobileBank.exe.config
+C:\Users\Dima_\Desktop\Release v.1\MobileBank\MobileBank\bin\Debug\MobileBank.exe
+C:\Users\Dima_\Desktop\Release v.1\MobileBank\MobileBank\bin\Debug\MobileBank.pdb
+C:\Users\Dima_\Desktop\Release v.1\MobileBank\MobileBank\obj\Debug\MobileBank.csproj.AssemblyReference.cache
+C:\Users\Dima_\Desktop\Release v.1\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.AddBankCard.resources
+C:\Users\Dima_\Desktop\Release v.1\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.ArmyHelp.resources
+C:\Users\Dima_\Desktop\Release v.1\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.CommunalPayments.resources
+C:\Users\Dima_\Desktop\Release v.1\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.Credit.resources
+C:\Users\Dima_\Desktop\Release v.1\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.InternetAndTvPayments.resources
+C:\Users\Dima_\Desktop\Release v.1\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.СhangeEmail.resources
+C:\Users\Dima_\Desktop\Release v.1\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.СhangePassword.resources
+C:\Users\Dima_\Desktop\Release v.1\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.СhangePhoneNumber.resources
+C:\Users\Dima_\Desktop\Release v.1\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.History.resources
+C:\Users\Dima_\Desktop\Release v.1\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.LoginForm.resources
+C:\Users\Dima_\Desktop\Release v.1\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.MainForm.resources
+C:\Users\Dima_\Desktop\Release v.1\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.PhoneForm.resources
+C:\Users\Dima_\Desktop\Release v.1\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.RegistrationForm.resources
+C:\Users\Dima_\Desktop\Release v.1\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.SendToForm.resources
+C:\Users\Dima_\Desktop\Release v.1\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.UserForm.resources
+C:\Users\Dima_\Desktop\Release v.1\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.Validation.resources
+C:\Users\Dima_\Desktop\Release v.1\MobileBank\MobileBank\obj\Debug\MobileBank.Properties.Resources.resources
+C:\Users\Dima_\Desktop\Release v.1\MobileBank\MobileBank\obj\Debug\MobileBank.csproj.GenerateResource.cache
+C:\Users\Dima_\Desktop\Release v.1\MobileBank\MobileBank\obj\Debug\MobileBank.csproj.CoreCompileInputs.cache
+C:\Users\Dima_\Desktop\Release v.1\MobileBank\MobileBank\obj\Debug\MobileBank.exe
+C:\Users\Dima_\Desktop\Release v.1\MobileBank\MobileBank\obj\Debug\MobileBank.pdb
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\bin\Debug\MobileBank.exe.config
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\bin\Debug\MobileBank.exe
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\bin\Debug\MobileBank.pdb
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.AddBankCard.resources
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.ArmyHelp.resources
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.CommunalPayments.resources
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.Credit.resources
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.InternetAndTvPayments.resources
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.СhangeEmail.resources
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.СhangePassword.resources
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.СhangePhoneNumber.resources
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.History.resources
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.LoginForm.resources
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.MainForm.resources
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.PhoneForm.resources
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.RegistrationForm.resources
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.SendToForm.resources
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.UserForm.resources
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.Validation.resources
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Properties.Resources.resources
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.csproj.GenerateResource.cache
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.csproj.CoreCompileInputs.cache
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.exe
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.pdb
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.csproj.AssemblyReference.cache
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\bin\Debug\MobileBank.exe.config
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\bin\Debug\MobileBank.exe
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\bin\Debug\MobileBank.pdb
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.csproj.AssemblyReference.cache
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.csproj.SuggestedBindingRedirects.cache
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.AddBankCard.resources
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.ArmyHelp.resources
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.CommunalPayments.resources
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.Credit.resources
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.InternetAndTvPayments.resources
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.СhangeEmail.resources
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.СhangePassword.resources
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.СhangePhoneNumber.resources
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.History.resources
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.LoginForm.resources
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.MainForm.resources
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.PhoneForm.resources
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.RegistrationForm.resources
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.SendToForm.resources
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.UserForm.resources
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Forms.Validation.resources
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.Properties.Resources.resources
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.csproj.GenerateResource.cache
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.csproj.CoreCompileInputs.cache
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.exe
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\obj\Debug\MobileBank.pdb

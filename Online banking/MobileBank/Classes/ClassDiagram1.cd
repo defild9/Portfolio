@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MobileBank.Classes.DataBaseConnection" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAIAAAABAAAAAAAQEAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Classes\DataBaseConnection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MobileBank.Classes.DataStorage" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAIACAAAAAAAAAAAAAAAAAAAEAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\DataStorage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MobileBank.Forms.AddBankCard" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BABBIJgAAiAAABACICCAAAACAAAQAAAAACASAQIQAEA=</HashCode>
+      <FileName>Forms\AddBankCard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MobileBank.Forms.ArmyHelp" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EABAIJgEAiAAABFAwCCCAAACAAIACAAAYAAAAwAQAAA=</HashCode>
+      <FileName>Forms\ArmyHelp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MobileBank.Forms.CommunalPayments" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MABQIJgACiAAABFAACCCAAACAAIACAAAIAAQAwAQAAA=</HashCode>
+      <FileName>Forms\CommunalPayments.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MobileBank.Forms.Credit" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8yBBIBCAEiAAYBBEgCCAAAACAAIIOAACEEBAAwJUAAA=</HashCode>
+      <FileName>Forms\Credit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MobileBank.Forms.History" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABBAAACAAADiAwAQAAAAACAAAIEACAA=</HashCode>
+      <FileName>Forms\History.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MobileBank.Forms.InternetAndTvPayments" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kABAIZgAAiAAABFAACCCQAACAAIACAAAIAAAAxAQAAg=</HashCode>
+      <FileName>Forms\InternetAndTvPayments.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MobileBank.Forms.LoginForm" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABJIBxAAiAEAAAAACSiAAAiAAAgAAACAACAQQAQAAA=</HashCode>
+      <FileName>Forms\LoginForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MobileBank.Forms.MainForm" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8kBAIpgAA6AAFRBBImCCUAECAoA4IEAIUHAoAYNQSAE=</HashCode>
+      <FileName>Forms\MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MobileBank.Forms.PhoneForm" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>dwBAAIgAAiAAIRFAACCCAAACAAAQAIAAoCAkAxBQABA=</HashCode>
+      <FileName>Forms\PhoneForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MobileBank.Forms.RegistrationForm" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BIAJYBwCAGIACABIAACiIAgiBAAAIAAAAAAAAQA4CAA=</HashCode>
+      <FileName>Forms\RegistrationForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MobileBank.Forms.SendToForm" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAIJgAQiQAADFAACCCAACCAAAgAAAAAAAAAwIQBAA=</HashCode>
+      <FileName>Forms\SendToForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MobileBank.Forms.UserForm" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8ADCIhBAAiBCATBAACCAEAACAAEsAAAAAEAAAQBQAAA=</HashCode>
+      <FileName>Forms\UserForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MobileBank.Forms.Validation" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIBAAACQAABBAAACAAAACAAAAAAAAAAACAQIAAAA=</HashCode>
+      <FileName>Forms\Validation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MobileBank.Forms.СhangeEmail" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QADAIBgAAiAEABAAACCAAAACAAAAIAAIAAAAAAAQAAA=</HashCode>
+      <FileName>Forms\СhangeEmail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MobileBank.Forms.СhangePassword" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAIBgAAiAEABAAACCAAAAiBAAAAAAgAAAAAAAQACA=</HashCode>
+      <FileName>Forms\СhangePassword.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MobileBank.Forms.СhangePhoneNumber" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABCIBhAAiAEABAAACCgAAACAAEAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Forms\СhangePhoneNumber.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MobileBank.Program" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MobileBank.Properties.Resources" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAQABgAABJEAKDFABAgUAACAAAAAAAQAAQgME=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MobileBank.Properties.Settings" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

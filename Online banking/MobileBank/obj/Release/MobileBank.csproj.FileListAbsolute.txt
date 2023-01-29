@@ -1,0 +1,77 @@
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\bin\Release\MobileBank.exe.config
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\bin\Release\MobileBank.exe
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\bin\Release\MobileBank.pdb
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.AddBankCard.resources
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.ArmyHelp.resources
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.CommunalPayments.resources
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.Credit.resources
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.InternetAndTvPayments.resources
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.СhangeEmail.resources
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.СhangePassword.resources
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.СhangePhoneNumber.resources
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.History.resources
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.LoginForm.resources
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.MainForm.resources
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.PhoneForm.resources
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.RegistrationForm.resources
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.SendToForm.resources
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.UserForm.resources
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.Validation.resources
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Properties.Resources.resources
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.csproj.GenerateResource.cache
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.csproj.CoreCompileInputs.cache
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.exe
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.pdb
+C:\Users\Dima_\Desktop\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.csproj.AssemblyReference.cache
+C:\Users\bilet\OneDrive\Рабочий стол\Mobile Bank\MobileBank\MobileBank\bin\Release\MobileBank.exe.config
+C:\Users\bilet\OneDrive\Рабочий стол\Mobile Bank\MobileBank\MobileBank\bin\Release\MobileBank.exe
+C:\Users\bilet\OneDrive\Рабочий стол\Mobile Bank\MobileBank\MobileBank\bin\Release\MobileBank.pdb
+C:\Users\bilet\OneDrive\Рабочий стол\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.csproj.AssemblyReference.cache
+C:\Users\bilet\OneDrive\Рабочий стол\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.csproj.SuggestedBindingRedirects.cache
+C:\Users\bilet\OneDrive\Рабочий стол\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.AddBankCard.resources
+C:\Users\bilet\OneDrive\Рабочий стол\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.ArmyHelp.resources
+C:\Users\bilet\OneDrive\Рабочий стол\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.CommunalPayments.resources
+C:\Users\bilet\OneDrive\Рабочий стол\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.Credit.resources
+C:\Users\bilet\OneDrive\Рабочий стол\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.InternetAndTvPayments.resources
+C:\Users\bilet\OneDrive\Рабочий стол\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.СhangeEmail.resources
+C:\Users\bilet\OneDrive\Рабочий стол\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.СhangePassword.resources
+C:\Users\bilet\OneDrive\Рабочий стол\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.СhangePhoneNumber.resources
+C:\Users\bilet\OneDrive\Рабочий стол\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.History.resources
+C:\Users\bilet\OneDrive\Рабочий стол\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.LoginForm.resources
+C:\Users\bilet\OneDrive\Рабочий стол\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.MainForm.resources
+C:\Users\bilet\OneDrive\Рабочий стол\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.PhoneForm.resources
+C:\Users\bilet\OneDrive\Рабочий стол\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.RegistrationForm.resources
+C:\Users\bilet\OneDrive\Рабочий стол\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.SendToForm.resources
+C:\Users\bilet\OneDrive\Рабочий стол\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.UserForm.resources
+C:\Users\bilet\OneDrive\Рабочий стол\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.Validation.resources
+C:\Users\bilet\OneDrive\Рабочий стол\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Properties.Resources.resources
+C:\Users\bilet\OneDrive\Рабочий стол\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.csproj.GenerateResource.cache
+C:\Users\bilet\OneDrive\Рабочий стол\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.csproj.CoreCompileInputs.cache
+C:\Users\bilet\OneDrive\Рабочий стол\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.exe
+C:\Users\bilet\OneDrive\Рабочий стол\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.pdb
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\bin\Release\MobileBank.exe.config
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\bin\Release\MobileBank.exe
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\bin\Release\MobileBank.pdb
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.csproj.AssemblyReference.cache
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.csproj.SuggestedBindingRedirects.cache
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.AddBankCard.resources
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.ArmyHelp.resources
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.CommunalPayments.resources
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.Credit.resources
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.InternetAndTvPayments.resources
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.СhangeEmail.resources
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.СhangePassword.resources
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.СhangePhoneNumber.resources
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.History.resources
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.LoginForm.resources
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.MainForm.resources
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.PhoneForm.resources
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.RegistrationForm.resources
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.SendToForm.resources
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.UserForm.resources
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Forms.Validation.resources
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.Properties.Resources.resources
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.csproj.GenerateResource.cache
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.csproj.CoreCompileInputs.cache
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.exe
+C:\Users\bilet\source\repos\Mobile Bank\MobileBank\MobileBank\obj\Release\MobileBank.pdb

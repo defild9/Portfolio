@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block title %}Edit page{% endblock title %}
+
+{% block body %}
+<h1>Albums</h1>
+<!--output all albums-->
+<div class="d-flex justify-content-center">
+{% for alb in albums %}
+
+    <div class="card" style="margin: 5px">
+        <div class="card-body" >
+            <h5 class="card-title">{{ alb.name }}</h5>
+            <p class="card-text ">{{ alb.description }}</p>
+            <a href="/dashboard/edit/albums/{{ alb.id }}/delete" class="btn btn-primary">Delete</a>
+        </div>
+    </div>
+
+
+
+{% endfor %}
+</div>
+{% endblock body %}

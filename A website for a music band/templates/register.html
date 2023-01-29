@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% block title %}Register page{% endblock title %}
+
+{% block body %}
+
+
+<form method="post" action="">
+    <h1 class="text-center">Register</h1>
+    {{ form.hidden_tag() }}
+  <!-- Username input -->
+  <div class="form-outline mb-4" style="width: 200px; margin: auto">
+        {{ form.username(class="form-control") }}
+  </div>
+
+  <!-- Password input -->
+  <div class="form-outline mb-4" style="width: 200px; margin: auto">
+    {{ form.password(class="form-control") }}
+  </div>
+
+    <div class="form-outline mb-4" style="width: 200px; margin: auto">
+        {{ form.email(class="form-control") }}
+  </div>
+
+  <!-- Submit button -->
+    <div class="form-outline mb-4" style="width: 200px; margin: auto">
+        {{ form.submit(class="btn btn-primary btn-block mb-0", style="width: 200px") }}
+    </div>
+{% endblock body %}

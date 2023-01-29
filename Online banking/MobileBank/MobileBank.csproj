@@ -1,0 +1,318 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7807AE29-5D1C-4A80-8A86-D2775489DDC9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>MobileBank</RootNamespace>
+    <AssemblyName>MobileBank</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\DataBaseConnection.cs" />
+    <Compile Include="Classes\DataStorage.cs" />
+    <Compile Include="Forms\AddBankCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AddBankCard.Designer.cs">
+      <DependentUpon>AddBankCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ArmyHelp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ArmyHelp.Designer.cs">
+      <DependentUpon>ArmyHelp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\CommunalPayments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CommunalPayments.Designer.cs">
+      <DependentUpon>CommunalPayments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Credit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Credit.Designer.cs">
+      <DependentUpon>Credit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\InternetAndTvPayments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\InternetAndTvPayments.Designer.cs">
+      <DependentUpon>InternetAndTvPayments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\СhangeEmail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\СhangeEmail.Designer.cs">
+      <DependentUpon>СhangeEmail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\СhangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\СhangePassword.Designer.cs">
+      <DependentUpon>СhangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\СhangePhoneNumber.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\СhangePhoneNumber.Designer.cs">
+      <DependentUpon>СhangePhoneNumber.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\History.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\History.Designer.cs">
+      <DependentUpon>History.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PhoneForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PhoneForm.Designer.cs">
+      <DependentUpon>PhoneForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\RegistrationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\RegistrationForm.Designer.cs">
+      <DependentUpon>RegistrationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SendToForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SendToForm.Designer.cs">
+      <DependentUpon>SendToForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\UserForm.Designer.cs">
+      <DependentUpon>UserForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Validation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Validation.Designer.cs">
+      <DependentUpon>Validation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\AddBankCard.resx">
+      <DependentUpon>AddBankCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ArmyHelp.resx">
+      <DependentUpon>ArmyHelp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CommunalPayments.resx">
+      <DependentUpon>CommunalPayments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Credit.resx">
+      <DependentUpon>Credit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\InternetAndTvPayments.resx">
+      <DependentUpon>InternetAndTvPayments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\СhangeEmail.resx">
+      <DependentUpon>СhangeEmail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\СhangePassword.resx">
+      <DependentUpon>СhangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\СhangePhoneNumber.resx">
+      <DependentUpon>СhangePhoneNumber.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\History.resx">
+      <DependentUpon>History.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PhoneForm.resx">
+      <DependentUpon>PhoneForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\RegistrationForm.resx">
+      <DependentUpon>RegistrationForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SendToForm.resx">
+      <DependentUpon>SendToForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UserForm.resx">
+      <DependentUpon>UserForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Validation.resx">
+      <DependentUpon>Validation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Classes\ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Card_2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Card_1_1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Card_1_1_1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Card_2_2_2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3319629_banking_buy_mobile_mobile payment_pay_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-account-6382335.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clock%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Flag_of_Ukraine.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\email_PNG14.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Settings-PNG-Images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\149071.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\449-4491383_44-1865-fa-fa-phone-square-clipart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sample_User_Icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\transparent-social-icon-male-user-shadow-icon-avatar-icon-5dd3a5b3906273.2504255015741516035914.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\toppng.com-purchase-history-icon-transaction-history-icon-600x707.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\transaction.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\transaction wwhite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wifi_PNG62346.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\189662.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1200px-95_ОДШБр_к.svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-money-bag-computer-icons-coin-tax-market-5abbb0febf56f2.7630683415222499827837.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\62876moneybag_109253.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
